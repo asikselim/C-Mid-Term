@@ -1,0 +1,13 @@
+C:\Users\selim\Desktop\C#Vize\vizeFinalProjeHesaplama\vizeFinalProjeHesaplama\bin\Debug\netcoreapp3.1\vizeFinalProjeHesaplama.exe
+C:\Users\selim\Desktop\C#Vize\vizeFinalProjeHesaplama\vizeFinalProjeHesaplama\bin\Debug\netcoreapp3.1\vizeFinalProjeHesaplama.deps.json
+C:\Users\selim\Desktop\C#Vize\vizeFinalProjeHesaplama\vizeFinalProjeHesaplama\bin\Debug\netcoreapp3.1\vizeFinalProjeHesaplama.runtimeconfig.json
+C:\Users\selim\Desktop\C#Vize\vizeFinalProjeHesaplama\vizeFinalProjeHesaplama\bin\Debug\netcoreapp3.1\vizeFinalProjeHesaplama.runtimeconfig.dev.json
+C:\Users\selim\Desktop\C#Vize\vizeFinalProjeHesaplama\vizeFinalProjeHesaplama\bin\Debug\netcoreapp3.1\vizeFinalProjeHesaplama.dll
+C:\Users\selim\Desktop\C#Vize\vizeFinalProjeHesaplama\vizeFinalProjeHesaplama\bin\Debug\netcoreapp3.1\vizeFinalProjeHesaplama.pdb
+C:\Users\selim\Desktop\C#Vize\vizeFinalProjeHesaplama\vizeFinalProjeHesaplama\obj\Debug\netcoreapp3.1\vizeFinalProjeHesaplama.csprojAssemblyReference.cache
+C:\Users\selim\Desktop\C#Vize\vizeFinalProjeHesaplama\vizeFinalProjeHesaplama\obj\Debug\netcoreapp3.1\vizeFinalProjeHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\selim\Desktop\C#Vize\vizeFinalProjeHesaplama\vizeFinalProjeHesaplama\obj\Debug\netcoreapp3.1\vizeFinalProjeHesaplama.AssemblyInfoInputs.cache
+C:\Users\selim\Desktop\C#Vize\vizeFinalProjeHesaplama\vizeFinalProjeHesaplama\obj\Debug\netcoreapp3.1\vizeFinalProjeHesaplama.AssemblyInfo.cs
+C:\Users\selim\Desktop\C#Vize\vizeFinalProjeHesaplama\vizeFinalProjeHesaplama\obj\Debug\netcoreapp3.1\vizeFinalProjeHesaplama.dll
+C:\Users\selim\Desktop\C#Vize\vizeFinalProjeHesaplama\vizeFinalProjeHesaplama\obj\Debug\netcoreapp3.1\vizeFinalProjeHesaplama.pdb
+C:\Users\selim\Desktop\C#Vize\vizeFinalProjeHesaplama\vizeFinalProjeHesaplama\obj\Debug\netcoreapp3.1\vizeFinalProjeHesaplama.genruntimeconfig.cache

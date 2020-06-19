@@ -1,0 +1,13 @@
+C:\Users\selim\Desktop\C#Vize\piramitCizme\piramitCizme\obj\Debug\netcoreapp3.1\piramitCizme.csprojAssemblyReference.cache
+C:\Users\selim\Desktop\C#Vize\piramitCizme\piramitCizme\obj\Debug\netcoreapp3.1\piramitCizme.csproj.CoreCompileInputs.cache
+C:\Users\selim\Desktop\C#Vize\piramitCizme\piramitCizme\obj\Debug\netcoreapp3.1\piramitCizme.AssemblyInfoInputs.cache
+C:\Users\selim\Desktop\C#Vize\piramitCizme\piramitCizme\obj\Debug\netcoreapp3.1\piramitCizme.AssemblyInfo.cs
+C:\Users\selim\Desktop\C#Vize\piramitCizme\piramitCizme\bin\Debug\netcoreapp3.1\piramitCizme.exe
+C:\Users\selim\Desktop\C#Vize\piramitCizme\piramitCizme\bin\Debug\netcoreapp3.1\piramitCizme.deps.json
+C:\Users\selim\Desktop\C#Vize\piramitCizme\piramitCizme\bin\Debug\netcoreapp3.1\piramitCizme.runtimeconfig.json
+C:\Users\selim\Desktop\C#Vize\piramitCizme\piramitCizme\bin\Debug\netcoreapp3.1\piramitCizme.runtimeconfig.dev.json
+C:\Users\selim\Desktop\C#Vize\piramitCizme\piramitCizme\bin\Debug\netcoreapp3.1\piramitCizme.dll
+C:\Users\selim\Desktop\C#Vize\piramitCizme\piramitCizme\bin\Debug\netcoreapp3.1\piramitCizme.pdb
+C:\Users\selim\Desktop\C#Vize\piramitCizme\piramitCizme\obj\Debug\netcoreapp3.1\piramitCizme.dll
+C:\Users\selim\Desktop\C#Vize\piramitCizme\piramitCizme\obj\Debug\netcoreapp3.1\piramitCizme.pdb
+C:\Users\selim\Desktop\C#Vize\piramitCizme\piramitCizme\obj\Debug\netcoreapp3.1\piramitCizme.genruntimeconfig.cache
